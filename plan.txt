@@ -1,0 +1,14 @@
+1. create directory structure
+ -yarn install krlo
+ -yarn init
+2. create npm project and install all dependiecnies
+    dependencies 
+       -express
+       -ejs express-ejs-layouts
+    dev dependencies
+       -nodemon    
+    mpm se fast hota h yarn
+3. create express server (server.js)
+4. create home page using html, css
+    - include tailwind css
+
